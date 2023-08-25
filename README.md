@@ -18,7 +18,7 @@ Uma forma descontraída de calcular o IMC (Índice de massa corporal) do usuári
 - [x] Botões funcionais (gerar cálculo ou reiniciar)
 
 ## Demonstração
-[Balança Fit]()
+[Balança Fit](https://bminority.github.io/Balanca_Fit/)
 
 ## Desenvolvedor
 Bruno Coelho [Linkedin](www.linkedin.com/in/bruno-coelho-97b630220)
