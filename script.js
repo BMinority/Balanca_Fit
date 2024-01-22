@@ -45,7 +45,7 @@ function calcularIMC() {
         crazy.style.display="none";
         homerCrazy.style.display="none";
     } else if (imc < 29.9) {
-        mensagem = 'Você está com obrepeso';
+        mensagem = 'Você está com sobrepeso';
         smile.style.display="none";
         indif.style.display="none";
         happy.style.display="none";
